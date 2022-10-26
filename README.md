@@ -9,6 +9,13 @@ Repository dedicated to storing, organizing, and sharing all information from th
 ## Milestones
 The work's progress is available on [this link](https://www.overleaf.com/read/ybyqfmctdjrm)
 
+### Topics to adress in the paper
+* Is there any open source FPGA tool chain?
+* What are they doing?
+* Compare to proprietary counterparts
+* Examples
+* Analysis
+
 
 ## Bibliography
 The seminar's theoretical references are available in the "Reference" folder. To access the files, click [here](https://github.com/rafaelmdalmoro/VLSI-design-seminar/tree/main/References)
