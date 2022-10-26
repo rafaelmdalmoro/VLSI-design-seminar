@@ -6,15 +6,16 @@ Articles urls:
 4. Archipelago - An Open Source FPGA with Toolflow Support - https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
 5. Open Hardware in Science: The Benefits of Open Electronics - https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac043/6590044
 6. Open Source Software as Intangible Capital: Measuring the Cost and Impact of Free Digital Tools - https://www.sipotra.it/wp-content/uploads/2018/11/Open-Source-Software-as-Intangible-Capital-Measuring-the-Cost-and-Impact-of-Free-Digital-Tools-Preliminary-Draft.pdf
+7. FPGA-based_control_system_reconfiguration_using_open_source_software - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7910719
+8. A Survey of Open Source Processors for FPGAs - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6927482
+9. Reconfigurable Computing for Reactive Robotics Using Open-Source FPGAs - https://www.mdpi.com/2079-9292/11/1/8
+10. Spector: An OpenCL FPGA Benchmark Suite - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7929519
+11. A Catalog and In-Hardware Evaluation of Open-Source Drop-In Compatible RISC-V Softcore Processors - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994796
+12. Open-Source RISC-V Processor IP Cores for FPGAs – Overview and Evaluation - https://ieeexplore.ieee.org/abstract/document/8760205
+13. OpenFPGA: An Open-Source Framework for Agile Prototyping Customizable FPGAs - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098028
+14. Evaluating FPGA Accelerator Performance with a Parameterized OpenCL Adaptation of Selected Benchmarks of the HPCChallenge Benchmark Suite - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306963
+15. Software Architecture Degradation in Open Source Software: A Systematic Literature Review -https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200327
 
 Pending Articles
-
-1. [Missing IEEE access] https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
-2. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/7929519
-3. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/8994796
-4. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/8760205
-5. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9098028
-6. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9306963
-7. [Requires purchasing] https://www.indianjournals.com/ijor.aspx?target=ijor:ijmt&volume=9&issue=3&article=002
-8. [Requires purchasing] https://www.sciencedirect.com/science/article/abs/pii/S0268401217310095
-9. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9200327
+1. [Requires purchasing] https://www.indianjournals.com/ijor.aspx?target=ijor:ijmt&volume=9&issue=3&article=002
+2. [Requires purchasing] https://www.sciencedirect.com/science/article/abs/pii/S0268401217310095
