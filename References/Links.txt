@@ -1,0 +1,20 @@
+Articles urls:
+
+1. PRGA: An Open-Source FPGA Research and Prototyping Framework - https://dl.acm.org/doi/abs/10.1145/3431920.3439294
+2. A Survey of FPGA Benchmarks - https://www.cs.wustl.edu/~jain/cse567-08/ftp/fpga.pdf
+3. The impact of Open Source Software and Hardware on technological independence, competitiveness and innovation in the EU economy - https://www.ospi.es/export/sites/ospi/documents/documentos/CNECT_OpenSourceStudy_EN_28_6_2021_LMBhSihnCeC7JEDsHXkK1JlZ0_79021_compressed.pdf
+4. Archipelago - An Open Source FPGA with Toolflow Support - https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
+5. Open Hardware in Science: The Benefits of Open Electronics - https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac043/6590044
+6. Open Source Software as Intangible Capital: Measuring the Cost and Impact of Free Digital Tools - https://www.sipotra.it/wp-content/uploads/2018/11/Open-Source-Software-as-Intangible-Capital-Measuring-the-Cost-and-Impact-of-Free-Digital-Tools-Preliminary-Draft.pdf
+
+Pending Articles
+
+1. [Missing IEEE access] https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
+2. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/7929519
+3. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/8994796
+4. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/8760205
+5. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9098028
+6. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9306963
+7. [Requires purchasing] https://www.indianjournals.com/ijor.aspx?target=ijor:ijmt&volume=9&issue=3&article=002
+8. [Requires purchasing] https://www.sciencedirect.com/science/article/abs/pii/S0268401217310095
+9. [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9200327

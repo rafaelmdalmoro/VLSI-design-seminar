@@ -15,6 +15,15 @@ The seminar's theoretical references are available in the "Reference" folder. To
 
 ### Pending references
  * [Missing IEEE access] https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
+ * [Missing IEEE access] https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
+ * [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/7929519
+ * [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/8994796
+ * [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/8760205
+ * [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9098028
+ * [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9306963
+ * [Requires purchasing] https://www.indianjournals.com/ijor.aspx?target=ijor:ijmt&volume=9&issue=3&article=002
+ * [Requires purchasing] https://www.sciencedirect.com/science/article/abs/pii/S0268401217310095
+ * [Missing IEEE access] https://ieeexplore.ieee.org/abstract/document/9200327
 
 ## Important information
 * Author: Rafael Mascarenhas Dal Moro
