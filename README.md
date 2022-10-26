@@ -13,7 +13,7 @@ The work's progress is available on [this link](https://www.overleaf.com/read/yb
 ## Bibliography
 The seminar's theoretical references are available in the "Reference" folder. To access the files, click [here](https://github.com/rafaelmdalmoro/VLSI-design-seminar/tree/main/References)
 
-###Pending references
+### Pending references
  * [Missing IEEE access] https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2014-43.pdf
 
 ## Important information
