@@ -7,7 +7,7 @@ Repository dedicated to storing, organizing, and sharing all information from th
 * [IEEE Template](https://www.ieee.org/conferences/publishing/templates.html).
 
 ## Milestones
-The work's progress is available on [this link](https://www.overleaf.com/read/ybyqfmctdjrm)
+The work's progress is available on [this link](https://www.overleaf.com/read/fnypvsqyfvwb)
 
 ### Topics to adress in the paper
 * Is there any open source FPGA tool chain?
