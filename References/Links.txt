@@ -15,6 +15,9 @@ Articles urls:
 13. OpenFPGA: An Open-Source Framework for Agile Prototyping Customizable FPGAs - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098028
 14. Evaluating FPGA Accelerator Performance with a Parameterized OpenCL Adaptation of Selected Benchmarks of the HPCChallenge Benchmark Suite - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306963
 15. Software Architecture Degradation in Open Source Software: A Systematic Literature Review -https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200327
+16. SymbiFlow and VPR: An Open-Source Design Flow for Commercial and Novel FPGAs - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9103284
+17. [Not an article] Introduction to Open Source FPGA Tools - https://fpgatutorial.com/open-source-fpga-tools/
+18. [Not an article] GCC for FPGA: SymbiFlow Open Source Toolchain - https://www.hackster.io/news/gcc-for-fpga-symbiflow-open-source-toolchain-254cf1ab15ff
 
 Pending Articles
 1. [Requires purchasing] https://www.indianjournals.com/ijor.aspx?target=ijor:ijmt&volume=9&issue=3&article=002
